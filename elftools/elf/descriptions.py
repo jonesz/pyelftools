@@ -274,6 +274,7 @@ _DESCR_E_MACHINE = dict(
     EM_AARCH64='AArch64',
     EM_BLACKFIN='Analog Devices Blackfin',
     EM_PPC='PowerPC',
+    EM_RISCV="RISC-V",
     RESERVED='RESERVED',
 )
 
